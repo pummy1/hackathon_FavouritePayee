@@ -1,0 +1,13 @@
+.listing-container {
+    position: relative;
+    top: 20px;
+}
+
+.listing-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-listing {
+    margin: 10px;
+}
